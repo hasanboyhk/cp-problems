@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int a;
-    cin >> a;
-    cout << a * 4;
+    double d;
+    cin >> d;
+    cout << 3.14 * d;
     return 0;
 }
