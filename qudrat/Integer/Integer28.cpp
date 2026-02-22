@@ -2,8 +2,8 @@
 #include <math.h>
 using namespace std;
 int main() {
-    int n;
-    cin >> n;
-    cout << n / 100 << n % 10 << n / 10 % 10;
+    int n, k;
+    cin >> n >> k;
+    cout << (k + (n + 5) % 7) % 7 + 1;
     return 0;
 }

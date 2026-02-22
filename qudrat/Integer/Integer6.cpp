@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-int main(){
+int main() {
     int n;
     cin >> n;
     cout << n / 10 << " " << n % 10;
