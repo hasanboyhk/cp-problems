@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-int main(){
+int main() {
     double a, b, c, p;
     cin >> a >> b;
     c = sqrt(a * a + b * b);

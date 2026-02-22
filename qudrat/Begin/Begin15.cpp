@@ -1,7 +1,7 @@
-#include <iostream> 
-#include <math.h>   
-using namespace std; 
-int main(){ 
+#include <iostream>
+#include <math.h>
+using namespace std;
+int main() {
     double s, d, r;
     cin >> s;
     r = sqrt(s / 3.14);

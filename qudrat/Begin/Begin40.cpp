@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-int main(){
+int main() {
     double a1, b1, c1, a2, b2, c2, x, y, d;
     cin >> a1 >> b1 >> c1 >> a2 >> b2 >> c2;
     d = (a1 * b2 - a2 * b1);

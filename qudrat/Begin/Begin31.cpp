@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-int main(){
+int main() {
     double f;
     cin >> f;
     cout << (f - 32) * 5 / 9;

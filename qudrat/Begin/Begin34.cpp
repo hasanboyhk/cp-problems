@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-int main(){
+int main() {
     double x, a, y, b;
     cin >> x >> a >> y >> b;
     cout << (a / x) - (b / y);

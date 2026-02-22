@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main(){
+int main() {
     double l, r, s;
     cin >> l;
     r = l / 2 / 3.14;
