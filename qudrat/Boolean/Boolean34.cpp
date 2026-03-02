@@ -2,9 +2,9 @@
 #include <math.h>
 using namespace std;
 int main() {
-    int a, b, c;
-    cin >> a >> b >> c;
-    bool bb = a == b && b == c;
+    int x, y;
+    cin >> x >> y;
+    bool bb = (x + y) % 2 == 1;
     cout << bb;
     return 0;
 }
